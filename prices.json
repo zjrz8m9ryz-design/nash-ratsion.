@@ -1,0 +1,18 @@
+{
+  "city": "Калининград",
+  "currency": "RUB",
+  "last_checked": null,
+  "source_status": "not_connected",
+  "note": "Пока нет подтверждённого автоматического источника цен. Не считать цены актуальными, пока source_status не станет live.",
+  "stores": {
+    "Пятёрочка": {
+      "catalog_url": "https://5ka.ru/",
+      "status": "needs_source"
+    },
+    "METRO": {
+      "catalog_url": "https://online.metro-cc.ru/category",
+      "status": "needs_source"
+    }
+  },
+  "items": []
+}
